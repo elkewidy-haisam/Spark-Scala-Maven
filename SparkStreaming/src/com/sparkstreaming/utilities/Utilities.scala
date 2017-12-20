@@ -1,4 +1,4 @@
-package com.sparkstreaming.twitter
+package com.sparkstreaming.utilities
 
 import java.util.regex.Pattern
 

@@ -5,7 +5,7 @@ import org.apache.spark.SparkContext._
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.twitter._
 import org.apache.spark.streaming.StreamingContext._
-import Utilities._
+import com.sparkstreaming.utilities.Utilities._
 
 /** Simple application to listen to a stream of Tweets and print them out */
 object PrintTweets {
